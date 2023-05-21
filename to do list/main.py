@@ -70,3 +70,5 @@ toggle_button = tk.Button(frame, text="Görev Tamamlandı", command=toggle_task)
 toggle_button.pack(pady=5)
 
 root.mainloop()
+
+# Eren Terzi
